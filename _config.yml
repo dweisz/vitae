@@ -1,0 +1,30 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+port: 4000
+safe: true
+url: http://dweisz.github.io/vitae
+author: Dan Weisz
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Dan Weisz's CV
+name: Dan Weisz
+email: dweisz@uw.edu
+email_full: mailto:dweisz@uw.edu
+github: dweisz
+twitter: bigticketdw
+tel:
+tel_full:
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: 311 Campbell Hall
+postcode: 94720
+city: Berkeley, CA
+country: USA
+google_analytics: UA-69770503-1
+
